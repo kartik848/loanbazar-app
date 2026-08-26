@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536165799568",
+    "project_id": "loan-bazaar-3a60b",
+    "storage_bucket": "loan-bazaar-3a60b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536165799568:android:7395514b976028f919ea15",
+        "android_client_info": {
+          "package_name": "com.loanbazar.app.loanbazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536165799568-2a37prr5s66hgi7q702iff144cje38v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvEc7OaY9rleEeG10ZGCNZpLGgnToJgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536165799568-2a37prr5s66hgi7q702iff144cje38v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

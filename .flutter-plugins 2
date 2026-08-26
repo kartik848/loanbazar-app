@@ -1,0 +1,24 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/kartikkale/.pub-cache/hosted/pub.dev/cloud_firestore-5.6.12/
+cloud_firestore_web=/Users/kartikkale/.pub-cache/hosted/pub.dev/cloud_firestore_web-4.4.12/
+file_selector_linux=/Users/kartikkale/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3+2/
+file_selector_macos=/Users/kartikkale/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.4+2/
+file_selector_windows=/Users/kartikkale/.pub-cache/hosted/pub.dev/file_selector_windows-0.9.3+4/
+firebase_core=/Users/kartikkale/.pub-cache/hosted/pub.dev/firebase_core-3.15.2/
+firebase_core_web=/Users/kartikkale/.pub-cache/hosted/pub.dev/firebase_core_web-2.24.1/
+flutter_plugin_android_lifecycle=/Users/kartikkale/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.26/
+image_picker=/Users/kartikkale/.pub-cache/hosted/pub.dev/image_picker-1.1.2/
+image_picker_android=/Users/kartikkale/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+21/
+image_picker_for_web=/Users/kartikkale/.pub-cache/hosted/pub.dev/image_picker_for_web-3.0.6/
+image_picker_ios=/Users/kartikkale/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.12+2/
+image_picker_linux=/Users/kartikkale/.pub-cache/hosted/pub.dev/image_picker_linux-0.2.1+2/
+image_picker_macos=/Users/kartikkale/.pub-cache/hosted/pub.dev/image_picker_macos-0.2.1+2/
+image_picker_windows=/Users/kartikkale/.pub-cache/hosted/pub.dev/image_picker_windows-0.2.1+1/
+razorpay_flutter=/Users/kartikkale/.pub-cache/hosted/pub.dev/razorpay_flutter-1.4.5/
+url_launcher=/Users/kartikkale/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+url_launcher_android=/Users/kartikkale/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/
+url_launcher_ios=/Users/kartikkale/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.3/
+url_launcher_linux=/Users/kartikkale/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+url_launcher_macos=/Users/kartikkale/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/
+url_launcher_web=/Users/kartikkale/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.3/
+url_launcher_windows=/Users/kartikkale/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
